@@ -1,4 +1,7 @@
 # Road-to-Data-Science
+
+Bookmark: https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning/cleaning-text-data?autoSkip=true&resume=false&u=3322
+
 Covers advanced NLP with Python, cleaning and vectoring data, word2vec, and neural networks.
 
 The special skills recommended for this course are NumPy, pandas, and scikit-learn.
