@@ -1,6 +1,6 @@
 # Road-to-Data-Science
 
-Advanced NLP with Python for Machine Learning
+## Advanced NLP with Python for Machine Learning
 
 Bookmark: https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning/what-is-word2vec?autoSkip=true&resume=false&u=3322
 
